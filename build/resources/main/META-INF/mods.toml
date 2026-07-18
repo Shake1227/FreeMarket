@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="CC BY-NC 4.0"
+
+[[mods]]
+modId="freemarket"
+version="1.0.0"
+displayName="FreeMarket"
+displayURL="https://x.com/Shake_1227"
+authors="Shake_1227"
+description='''A secure player marketplace with fixed-price listings and auctions.'''
+logoFile="logo.png"
+logoBlur=false
+
+[[dependencies."freemarket"]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies."freemarket"]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies."freemarket"]]
+modId="modernnotification"
+mandatory=false
+versionRange="[1.0.0,)"
+ordering="AFTER"
+side="BOTH"
+

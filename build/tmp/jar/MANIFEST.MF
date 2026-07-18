@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: freemarket
+Specification-Vendor: Shake_1227
+Specification-Version: 1
+Implementation-Title: freemarket
+Implementation-Version: 1.0.0
+Implementation-Vendor: Shake_1227
+Implementation-Timestamp: 2026-07-18T21:31:28+0900
+

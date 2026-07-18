@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "freemarket:font/icons.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["🔨🛒"]
+    }
+  ]
+}

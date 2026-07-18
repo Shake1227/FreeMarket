@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "facing=north": { "model": "freemarket:block/market_terminal" },
+    "facing=east": { "model": "freemarket:block/market_terminal", "y": 90 },
+    "facing=south": { "model": "freemarket:block/market_terminal", "y": 180 },
+    "facing=west": { "model": "freemarket:block/market_terminal", "y": 270 }
+  }
+}
+
