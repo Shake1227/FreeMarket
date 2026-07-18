@@ -14,7 +14,7 @@ FreeMarket is a Forge 1.20.1 client/server marketplace mod for Mohist servers. P
 ## Features
 
 - Fixed-price listings and timed auctions with complete ItemStack NBT preservation
-- Mercari-inspired cards, product details, search filters, sorting, likes, comments, reviews, and persistent navigation
+- cards, product details, search filters, sorting, likes, comments, reviews, and persistent navigation
 - Saved searches with new-listing alerts, price-drop alerts, purchase/listing/view history, seller blocking, and listing reports
 - Editable operator-managed tags and fixed or percentage marketplace fees
 - Persistent bell notifications with read/delete controls
