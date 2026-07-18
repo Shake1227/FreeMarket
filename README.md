@@ -1,6 +1,6 @@
 # FreeMarket
 
-FreeMarket is a Forge 1.20.1 client/server marketplace mod for Mohist servers. Players use a dedicated retro Macintosh-style terminal to buy, sell, bid, comment, negotiate, follow listings, and manage their market history without operator permissions.
+FreeMarket is a Forge 1.20.1 client/server marketplace mod for Mohist servers. Players use a dedicated retro terminal to buy, sell, bid, comment, negotiate, follow listings, and manage their market history without operator permissions.
 
 ## Requirements
 
